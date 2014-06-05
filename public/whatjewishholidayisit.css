@@ -1,18 +1,26 @@
-* {font-size: 170px;
+body {font-size: 170px;
 	font-weight: 600;
 	color: darkblue;
-	position: absolute;
 	font-family: Helvetica, sans-serif;
 	text-align: center;
-}
-
-body {
 		position: fixed;
 		text-align: center;
 		width: 100%;
-		top: 25%;
+		top: 40%;
   		left: 7%;
   		margin-top: -50px;
   		margin-left: -80px;
+  		font-family: Helvetica, sans-serif;
 	}
 
+
+
+footer {
+		font-size: 15px;
+		color: darkblue;
+		height: 6em;
+		text-align: center;
+		width: 100%;
+		bottom: 0;
+		position: fixed;
+	}
