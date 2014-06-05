@@ -20,3 +20,45 @@ if (today === "06/04/2014") {
 else if (today === "06/05/2014") {
 	document.write("Shavu'ot!");
 }
+
+else if (today === "07/15/2014") {
+	document.write("Fast of the 17th of Tammuz");
+}
+
+else if (today === "08/04/2014") {
+	document.write("Fast of Tish'a B'Av");
+}
+
+else if (today === "08/05/2014") {
+	document.write("Fast of Tish'a B'Av");
+}
+
+else if (today === "08/11/2014") {
+	document.write("The 15th of Av");
+}
+
+else if (today === "09/24/2014") {
+	document.write("Rosh Hashanah");
+}
+
+else if (today === "09/25/2014") {
+	document.write("Rosh Hashanah");
+}
+
+else if (today === "09/26/2014") {
+	document.write("Rosh Hashanah");
+}
+
+else if (today === "10/03/2014") {
+	document.write("Yom Kippur");
+}
+
+else if (today === "10/04/2014") {
+	document.write("Yom Kippur");
+}
+
+else {
+	document.write("Lo");
+}
+
+
