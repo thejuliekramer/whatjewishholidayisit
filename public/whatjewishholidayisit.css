@@ -1,8 +1,18 @@
 * {font-size: 100px;
-	font-weight: bold;
+	font-weight: 600;
 	color: darkblue;
 	position: absolute;
 	font-family: Helvetica, sans-serif;
-	position: absolute;
+	text-align: center;
 }
 
+body {
+		height: 100%;
+		left: 0;
+		position: fixed;
+		text-align: center;
+		top: 0;
+		width: 100%;
+		display: inline-block;
+		vertical-align: middle;
+	}
