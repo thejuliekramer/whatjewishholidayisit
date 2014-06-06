@@ -22,7 +22,7 @@ else if (today === "06/05/2014") {
 }
 
 else if (today === "07/15/2014") {
-	document.write("Fast of the 17th of Tammuz");
+	document.write("Seventeenth of Tammuz");
 }
 
 else if (today === "08/04/2014") {
@@ -57,8 +57,56 @@ else if (today === "10/04/2014") {
 	document.write("Yom Kippur");
 }
 
+else if (today === "10/09/2014") {
+	document.write("Sukkot");
+}
+
+else if (today === "10/16/2014") {
+	document.write("Shemini Atzeret");
+}
+
+else if (today === "10/17/2014") {
+	document.write("Simchat Torah");
+}
+
+else if (today === "12/16/2014") {
+	document.write("Chanukkah");
+}
+
+else if (today === "12/17/2014") {
+	document.write("Chanukkah");
+}
+
+else if (today === "12/18/2014") {
+	document.write("Chanukkah");
+}
+
+else if (today === "12/19/2014") {
+	document.write("Chanukkah");
+}
+
+else if (today === "12/20/2014") {
+	document.write("Chanukkah");
+}
+
+else if (today === "12/21/2014") {
+	document.write("Chanukkah");
+}
+
+else if (today === "12/22/2014") {
+	document.write("Chanukkah");
+}
+
+else if (today === "12/23/2014") {
+	document.write("Chanukkah");
+}
+
+else if (today === "12/24/2014") {
+	document.write("Chanukkah");
+}
+
 else {
-	document.write("Lo");
+	document.write("Ein Od");
 }
 
 
